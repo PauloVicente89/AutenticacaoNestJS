@@ -28,6 +28,12 @@
 <h3>Projeto feito com NestJs - Autenticação com separação de privilegios</h3>
 <ul>
   <li>
+    <h3> Autenticação com JWT</h3>
+  </li>
+  <li>
+    <h3> Sistema de administração</h3>
+  </li>
+  <li>
     <h3> Adição de Middlewares</h3>
   </li>
   <li>
