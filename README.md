@@ -24,8 +24,6 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
 
 <h3>Projeto feito com NestJs - Autenticação com separação de privilegios</h3>
 <ul>
