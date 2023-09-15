@@ -37,6 +37,9 @@
     <h3> Adição de Middlewares</h3>
   </li>
   <li>
+    <h3> Documentação no SWAGGER</h3>
+  </li>
+  <li>
     <h3> Utilização do Prisma ORM</h3>
   </li>
   <li>
