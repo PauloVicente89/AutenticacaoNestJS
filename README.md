@@ -24,7 +24,35 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+
+<h3>Projeto feito com NestJs - Autenticação com separação de privilegios</h3>
+<ul>
+  <li>
+    <h3> Autenticação com JWT</h3>
+  </li>
+  <li>
+    <h3> Sistema de administração</h3>
+  </li>
+  <li>
+    <h3> Adição de Middlewares</h3>
+  </li>
+  <li>
+    <h3> Documentação no SWAGGER</h3>
+  </li>
+  <li>
+    <h3> Utilização do Prisma ORM</h3>
+  </li>
+  <li>
+    <h3> Criação do seed.ts - para testes localhost</h3>
+  </li>
+  <li>
+    <h3> Separação de perfil entre ADMIN / USER / COMPANY onde só o admin pode incluir usuários</h3>
+  </li>
+</ul>
+
+
+
+
 
 ## Installation
 
@@ -55,32 +83,4 @@ $ npx prisma generate
 
 ```
 
-## Test
 
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ yarn test:e2e
-
-# test coverage
-$ yarn test:cov
-
-# Api Swagger
-$ yarn 
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
